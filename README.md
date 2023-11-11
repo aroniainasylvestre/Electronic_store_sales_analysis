@@ -1,4 +1,4 @@
-# Analyse des Ventes d'un Magasin Électronique
+#  Analyse des Ventes d'un Magasin Électronique
 
 ## Description du Projet
 
